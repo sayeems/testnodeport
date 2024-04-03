@@ -1,0 +1,23 @@
+{
+  "name": "testnodeport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo building",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayeems/testnodeport.git"
+  },
+  "author": "Sayeem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayeems/testnodeport/issues"
+  },
+  "homepage": "https://github.com/sayeems/testnodeport#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
